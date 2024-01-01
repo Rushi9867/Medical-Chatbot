@@ -11,7 +11,7 @@ list_of_files = [
     "src/prompt.py",
     ".env",
     "setup.py",
-    "research/trials.ipynb",
+    "notebook/medical_chatbot.ipynb",
     "app.py",
     "store_index.py",
     "static/.gitkeep",
