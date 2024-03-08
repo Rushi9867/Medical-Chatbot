@@ -1,4 +1,5 @@
 # Medical-Chatbot-using-Llama2
+<img src="https://github.com/Rushi9867/Medical-Chatbot/blob/main/data/Mchatbot.png" width="900"/>
 
 # How to run?
 ### STEPS:
