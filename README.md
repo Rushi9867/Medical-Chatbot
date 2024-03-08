@@ -1,5 +1,6 @@
 # Medical-Chatbot-using-Llama2
 <img src="https://github.com/Rushi9867/Medical-Chatbot/blob/main/data/Mchatbot.png" width="900"/>
+![github logo](https://github.com/Rushi9867/Medical-Chatbot/blob/main/data/Llma-2.png)
 
 # How to run?
 ### STEPS:
